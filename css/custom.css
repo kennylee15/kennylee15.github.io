@@ -24,6 +24,9 @@
 
 /* Large mobile phones */
 @media (max-width: 426px) {
+    .section-header .content h1 {
+    font-size: 3.4em;
+  }	
     .section-header .separator,
     .section-header-blog .separator,
     .section-presentation-page .separator {
