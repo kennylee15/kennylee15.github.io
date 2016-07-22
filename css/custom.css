@@ -16,6 +16,9 @@
     border-color: #008b9c;
 }
 
+p > a {
+  color: inherit;
+}
 
 /* Aligning Nav bar */
 .navbar .navbar-nav > li > a.btn {
@@ -30,6 +33,10 @@
   color: #FFFFFF;
 }
 .dropdown-menu.dropdown-danger > li > a:hover {
+  color: #008b9c;
+}
+
+p > a:hover {
   color: #008b9c;
 }
 
